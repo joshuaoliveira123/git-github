@@ -30,6 +30,11 @@ header h1{
     color: white;
 }
 
+h1:hover{
+    font-variant: small-caps;
+    letter-spacing: 0.16em;
+}
+
 main{
     margin: 0px auto 30px;
     padding: 20px;
